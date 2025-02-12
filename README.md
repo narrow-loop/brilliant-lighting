@@ -8,3 +8,6 @@ Books, videos, articles about algo-trading
 
 ### Videos
 - [Running 55+ Systematic Trading - Chat With Traders](https://www.youtube.com/watch?v=eQGfCT6-lxs)
+
+### Implementations
+- [awchjimmy/public-stablecoin-arbitrage](https://github.com/narrow-loop/public-stablecoin-arbitrage)
