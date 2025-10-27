@@ -13,3 +13,4 @@ Books, videos, articles about algo-trading
 
 ### Articles
 - [Who Really Moves Prices on a DEX — And Why You Get Less Than Expected](https://medium.com/coinmonks/dex-from-the-inside-who-moves-the-price-and-how-it-actually-works-ea2433d73e83)
+- [I fell down the crypto rabbit hole — and came back with an arbitrage bot in my pocket](https://medium.com/@mrponder/i-fell-down-the-crypto-rabbit-hole-and-came-back-with-an-arbitrage-bot-in-my-pocket-435d9aa478d4)
