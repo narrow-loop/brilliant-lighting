@@ -11,5 +11,5 @@ Books, videos, articles about algo-trading
 ### Videos
 - [Running 55+ Systematic Trading - Chat With Traders](https://www.youtube.com/watch?v=eQGfCT6-lxs)
 
-### Implementations
-- [awchjimmy/public-stablecoin-arbitrage](https://github.com/narrow-loop/public-stablecoin-arbitrage)
+### Articles
+- [Who Really Moves Prices on a DEX — And Why You Get Less Than Expected](https://medium.com/coinmonks/dex-from-the-inside-who-moves-the-price-and-how-it-actually-works-ea2433d73e83)
